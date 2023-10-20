@@ -1,2 +1,3 @@
 # Inara-Khan
-My first official Repository in 2023
+My first official Git Repository in 2023
+Author - Inara Khan
